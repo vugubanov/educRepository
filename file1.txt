@@ -1,3 +1,9 @@
 Hello world!!!123
+<<<<<<< HEAD
 123
 Good evening! (From branch master)
+=======
+12345
+Line from user2
+Line from user1
+>>>>>>> 55bb71f2bb92901bdbacf6aa5ed8b9d04614b802
